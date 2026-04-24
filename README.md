@@ -19,3 +19,6 @@ Improved demand prediction accuracy and reduced inventory risk.
 ## Tools
 - Python
 - Power BI
+
+## Data
+Dataset sourced from Walmart Sales Forecasting dataset on Kaggle.
